@@ -1,6 +1,6 @@
 # Nuance F***s
 
-Code for producing figures in my [blog post](https://venkatasg.me/posts/nuance-fucks) on the
+Code for producing figures in my [blog post](https://venkatasg.net/posts/nuance-fucks) on the
 rise of 'nuance' in Computational Linguistics. You need to download the [ACL anthology](https://www.aclweb.org/anthology/) 
 bibliography file with abstracts to run the Jupyter Notebook, and create the csv.
 
