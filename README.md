@@ -1,4 +1,4 @@
-# Nuance F***s
+# Nuance Fucks
 
 Code for producing figures in my [blog post](https://venkatasg.net/posts/nuance-fucks) on the
 rise of 'nuance' in Computational Linguistics. You need to download the [ACL anthology](https://www.aclweb.org/anthology/) 
